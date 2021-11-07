@@ -1,0 +1,13 @@
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\bin\Debug\netcoreapp3.1\Vinny_Arq01.exe
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\bin\Debug\netcoreapp3.1\Vinny_Arq01.deps.json
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\bin\Debug\netcoreapp3.1\Vinny_Arq01.runtimeconfig.json
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\bin\Debug\netcoreapp3.1\Vinny_Arq01.runtimeconfig.dev.json
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\bin\Debug\netcoreapp3.1\Vinny_Arq01.dll
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\bin\Debug\netcoreapp3.1\Vinny_Arq01.pdb
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\obj\Debug\netcoreapp3.1\Vinny_Arq01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\obj\Debug\netcoreapp3.1\Vinny_Arq01.AssemblyInfoInputs.cache
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\obj\Debug\netcoreapp3.1\Vinny_Arq01.AssemblyInfo.cs
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\obj\Debug\netcoreapp3.1\Vinny_Arq01.csproj.CoreCompileInputs.cache
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\obj\Debug\netcoreapp3.1\Vinny_Arq01.dll
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\obj\Debug\netcoreapp3.1\Vinny_Arq01.pdb
+C:\Users\Vinny Nascimento\Desktop\Projetos\15-10-21\Vinny_Arq01\Vinny_Arq01\obj\Debug\netcoreapp3.1\Vinny_Arq01.genruntimeconfig.cache
